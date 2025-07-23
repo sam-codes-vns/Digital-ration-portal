@@ -1,0 +1,44 @@
+.notificationsContainer {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.notificationCard {
+  padding: 1.2rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  color: white;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.success {
+  background-color: #388e3c;
+}
+
+.info {
+  background-color: #1976d2;
+}
+
+.warning {
+  background-color: #fbc02d;
+  color: black;
+}
+
+.error {
+  background-color: #d32f2f;
+}
+
+.notificationCard h3 {
+  margin-bottom: 0.3rem;
+}
+
+.notificationCard p {
+  margin-bottom: 0.5rem;
+}
+
+.date {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}

@@ -1,0 +1,40 @@
+.allotmentContainer {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: #f9fbe7;
+  border-radius: 12px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.monthBlock {
+  margin-bottom: 2rem;
+}
+
+.allotmentTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.allotmentTable th,
+.allotmentTable td {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.allotmentTable th {
+  background-color: #c5e1a5;
+  color: #2e7d32;
+}
+
+.delivered {
+  color: green;
+  font-weight: bold;
+}
+
+.pending {
+  color: red;
+  font-weight: bold;
+}

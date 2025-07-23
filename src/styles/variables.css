@@ -1,0 +1,17 @@
+/* styles/variables.css */
+
+:root {
+  --primary-color: #2e7d32;
+  --secondary-color: #c5e1a5;
+  --danger-color: #d32f2f;
+  --info-color: #1976d2;
+  --warning-color: #fbc02d;
+  --bg-light: #f9fbe7;
+  --bg-gray: #f4f4f4;
+
+  --text-color: #333;
+  --font-main: 'Segoe UI', sans-serif;
+
+  --border-radius: 8px;
+  --transition-speed: 0.3s;
+}
